@@ -367,8 +367,8 @@ Feliz Navidad y próspero año nuevo!!! 🎄🎉☃️
     }, { quoted: m })
 }
 
-handler.help = ['menu', 'menu <seccion>']
+handler.help = ['menutest', 'menutest <seccion>']
 handler.tags = ['main']
-handler.command = ['menu', 'menú', 'help']
+handler.command = ['menutest']
 
 export default handler
